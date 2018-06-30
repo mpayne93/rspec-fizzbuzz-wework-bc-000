@@ -2,9 +2,10 @@
 # See README.md for instructions on how to do this
 require 'fizzbuzz.rb'
 
-def fizzbuzz
+def fizzbuzz(num)
 
-
+  if num%3 == 0:
+    
 
 
 end

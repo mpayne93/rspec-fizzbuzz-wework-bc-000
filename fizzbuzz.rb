@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 require_relative './spec_helper.rb'
 
-def fizzbuzz(num)
+do fizzbuzz(num)
 
   if num%15 == 0
     puts "FizzBuzz"
